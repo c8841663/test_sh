@@ -12,7 +12,7 @@ class TestContact:
         print('输入用户名')
         allure.attach('输入密码', '输入密码的描述')
         print('输入密码')
-        xxxxxx
+        # xxxxxx
         allure.attach('登录', '登录的描述')
         print('点击登录')
 
